@@ -1,0 +1,40 @@
+### Privacy Policy for SF Quick Links Chrome Extension
+
+**Effective Date**: January 8, 2025
+
+**SF Quick Links** (the "Extension") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Extension. By using the Extension, you agree to the practices outlined in this policy.
+
+#### 1. **Information We Collect**
+The Extension does not collect any personal information. It operates entirely within the confines of your browser and Salesforce pages, and does not send any user data to external servers.
+
+#### 2. **Permissions**
+To function properly, the Extension requires the following permissions:
+- **Context Menus**: To create and manage the right-click context menu for quick access to Salesforce pages.
+- **Tabs**: To read and modify the current browser tab’s URL for redirection purposes.
+- **Host Permissions**: The Extension operates on Salesforce-related domains only, specifically:
+  - `https://*.salesforce.com/*`
+  - `https://*.salesforce-setup.com/*`
+  - `https://*.force.com/*`
+  - `https://*.cloudforce.com/*`
+  - `https://*.visualforce.com/*`
+
+These permissions allow the Extension to function within Salesforce and provide quick access to various pages, but no personal data or sensitive information is transmitted outside of the user's browser.
+
+#### 3. **How We Use Your Information**
+We do not collect or store any personally identifiable information (PII) from users. The Extension only modifies the current browser tab’s URL to redirect you to the Salesforce pages you select from the context menu.
+
+#### 4. **Data Security**
+Since the Extension does not collect any personal information, there are no specific data security measures needed to protect your data. However, we are committed to keeping the Extension free of security vulnerabilities and ensuring it operates safely within your browser.
+
+#### 5. **Third-Party Services**
+The Extension does not share or interact with any third-party services. It operates entirely within your browser and interacts only with Salesforce pages.
+
+#### 6. **Changes to This Privacy Policy**
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify you by updating the "Effective Date" at the top of this page. We encourage you to review this Privacy Policy periodically to stay informed about how we protect your privacy.
+
+#### 7. **Contact Us**
+If you have any questions or concerns about this Privacy Policy or how your data is handled, please feel free to contact us:
+
+- Email: [salesforcetroop@gmail.com] (salesforcetroop@gmail.com)
+
+By using the Extension, you acknowledge that you have read and understood this Privacy Policy.
