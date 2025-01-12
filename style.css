@@ -131,6 +131,13 @@ footer {
     padding-top: 2rem;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+.shortcuts-grid span{
+    padding: 8px 16px;
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 18px 5px;
+    display: inline-block;
+}
 
 @media (max-width: 768px) {
     .container {
